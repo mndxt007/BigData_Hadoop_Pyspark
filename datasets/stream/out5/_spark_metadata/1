@@ -1,0 +1,2 @@
+v1
+{"path":"file:///home/hadoop/spark/pysparkExamples/datasets/stream/out5/part-00000-cb520fa6-8c47-4c10-ad28-75acdfcf823e-c000.csv","size":1056,"isDir":false,"modificationTime":1631145349000,"blockReplication":1,"blockSize":33554432,"action":"add"}
