@@ -4,13 +4,15 @@
 
     source /home/hadoop/Documents/classicModels.txt
 
+Above file is present here [mysqlloadfile](inputfiles\mysqlsampledatabase.sql)
+
 For running Queries in Hive and MySQL using DBVisualizer
 
-Connection Parameters for Hive:
+### Connection Parameters for Hive:
 
 ![Hive con](assets/hivecon.png)
 
-Connection Parameters for MySQL:
+### Connection Parameters for MySQL:
 
 ![mysql con](assets/mysqlcon.png)
 
